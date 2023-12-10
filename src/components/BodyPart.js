@@ -4,6 +4,7 @@ import Icon from '../assets/icons/gym.png';
 
 const BodyPart = ({ item, setBodyPart, bodyPart }) => (
   <Stack
+   
     type="button"
     alignItems="center"
     justifyContent="center"
